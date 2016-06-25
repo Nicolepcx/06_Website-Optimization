@@ -8,11 +8,19 @@ Project #4 of Udacity's [Front-End Web Developer Nanodegree](https://www.udacity
 
 ##### Clone the git repository to your local machine:
 
-Open a terminal where you want to clone to on your local machine
-then type:
 
-* Check out the repository: <a https://github.com/Nicolepcx/06_Website-Optimization">Website-Optimization</a>
+* On GitHub, navigate to the main page of the repository:
+[Nicole's Repository](https://github.com/Nicolepcx/06_Website-Optimization "Website-Optimization")
+* Under your repository name, click Clone or download.
+* In the Clone with HTTPs section, click  to copy the clone URL for the repository.
+* Open Terminal
+* Change the current working directory to the location where you want the cloned directory to be made.
+* Type `git clone`, and then paste the URL you copied at the second point.
+* `$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY`
+* Press Enter. Your local clone will be created.
 
+
+* Check out the repository:
 * To inspect the site on your phone, you can run a local server
 
   ```bash
